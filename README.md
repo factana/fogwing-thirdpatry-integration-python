@@ -33,7 +33,7 @@ To run the `OWMToFogwingClient.py` program, follow the step-by-step instructions
 ### **Step 7. Analyze Your Data on the Fogwing Platform**
 - Now you are ready to analyze your data at [Fogwing Platform](https://portal.fogwing.net/) portal, you can check all the data within the data storage in the portal.
   
-## **Where to Find Help and Resources for Fogwing**
+## **Where to Find Help and Resources for Fogwing and OpenWeatherMap**
 - [Fogwing Open APIs Docs.](https://api.fogwing.net/)
 - [OpenWeatherMap API Docs.](https://openweathermap.org/api)
 - [Fogwing Platform Forum.](https://community.fogwing.io/)
