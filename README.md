@@ -15,7 +15,7 @@ To run the `OWMToFogwingClient.py` program, follow the step-by-step instructions
 ### **Step 1: Clone the Repository**
 - Clone the [fogwing-thirdpatry-integration-python](https://github.com/factana/fogwing-thirdpatry-integration-python) repository containing the program code to your local machine.
 
-### **Step 2: Install Libraries
+### **Step 2: Install Libraries**
 - Install all the required libraries using pip and the requirements.txt file provided using follwing command.
     - `pip install -r requirements.txt`
 
